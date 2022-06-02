@@ -1,0 +1,40 @@
+@media (max-width: 500px) {
+textarea {
+  height: 100px;
+  line-height:1.25;
+}
+
+}
+  textarea {
+    background-color: #000000;
+    border: 1px solid #000000;
+    color: #CC0000;
+    padding: 8px;
+    font-family: courier new;
+}
+
+body {
+  background: url("https://cdn.discordapp.com/attachments/935975146320187452/982035262790041600/330826-hacker-ethique-c-est-quoi-ce-metier-web-tete-0601519953802.jpg");
+	background-size: cover;
+	background-position: center
+  
+}
+"
+input {
+    background-color: #000;
+    color: #CC0000;
+}
+
+button {
+	background-color:#000000;
+	cursor:pointer;
+	color:#CC0000;
+	font-family:helvetica;
+	font-size:17px;
+	padding:7px 8px;
+	text-decoration:none;
+}
+button:active {
+	position:relative;
+	top:1px;
+}
